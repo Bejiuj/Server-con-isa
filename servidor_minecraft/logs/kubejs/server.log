@@ -1,0 +1,184 @@
+[23:09:35] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[23:09:35] [INIT] Loaded plugins:
+[23:09:35] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:09:35] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[23:09:35] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:09:37] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[23:09:37] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_evo_reds_alienpack:kubejs_scripts/palladium_properties.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/remove_auto_upgrade.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/husk_hit_detection.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_recal_compeleted.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/test_simple.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/alienspawn_command.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/recalgamerule_command.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_reboot.js in 0.003 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/remove_command.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/surgednascanitem.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/hit.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/alien_beacon.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/screwdriver_item.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_recal_noncustom.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_recal.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/ulti_random_timeout.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/ult_failesafe.js in 0.0 s
+[23:09:37] [INFO] addonpack_reds_things:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
+[23:09:37] [INFO] addonpack_reds_things:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/slam.js in 0.004 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/hit_cascan.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/hotdogdnascanitem.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/ride_ult_wildmut.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/xylene.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/upchuck_mechanics.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/tagremoval.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/ignore_dmg.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/vial.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.016 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.003 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.001 s
+[23:09:37] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.007 s
+[23:09:37] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[23:09:37] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[23:09:37] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
+[23:09:37] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[23:09:37] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.016 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/tremorzilla_beam.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_nosedeenian_aliens:kubejs_scripts/entitiy_dmg.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_nosedeenian_aliens:kubejs_scripts/entitiy_dmg2.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_nosedeenian_aliens:kubejs_scripts/ability.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/fix_ride_bug.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/ore_detect.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/separate.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/upgrade.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/remove_player.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/airtime.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/extras_handler.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/core.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/sync_prototype_completed.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/randomizer.js in 0.005 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/failsafe.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/battery_timer.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/core_scrambler.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/batman.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/cookingts.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/randomizer_code_tablet.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_aeo:kubejs_scripts/palladium_properties.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_stretchakln:kubejs_scripts/obtainment.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_galvan:kubejs_scripts/upgrade_template.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate.js in 0.001 s
+[23:09:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
+[23:09:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
+[23:09:37] [INFO] Loaded 77/77 KubeJS server scripts in 0.137 s with 0 errors and 0 warnings
+[23:09:37] [INFO] Scripts loaded
+[23:09:37] [INFO] Initializing recipe event...
+[23:09:39] [INFO] [minecraft:item] Found 533 tags, added 5 objects, removed 0 objects
+[23:09:39] [INFO] [minecraft:block] Found 363 tags, added 17 objects, removed 0 objects
+[23:09:39] [INFO] Processing recipes...
+[23:09:39] [INFO] Found 2834 recipes in 79.44 ms
+[23:09:39] [INFO] Posted recipe events in 6.519 ms
+[23:09:39] [INFO] Added 27 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes in 57.22 ms
+[23:09:41] [INFO] Server resource reload complete!
+[23:09:44] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#66: [Omni-Evo] World loaded event triggered
+[23:09:44] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#71: [Omni-Evo] World loaded - GiveAFAliens is enabled, all players have been given the Recal.GiveAFAliens tag
+[23:09:44] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#82: [Omni-Evo] World loaded - RandomizeBugRecal is disabled, all players have been given the Recal.DisableRandomizeBugRecal tag
+[23:09:44] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#91: [Omni-Evo] Server tick initialization
+[23:09:44] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#94: [Omni-Evo] Server tick - GiveAFAliens is enabled, all players have been given the Recal.GiveAFAliens tag
+[23:09:44] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#101: [Omni-Evo] Server tick - RandomizeBugRecal is disabled, all players have been given the Recal.DisableRandomizeBugRecal tag
+[23:16:50] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#108: [Omni-Evo] Player literal{Benjiuj} joined
+[23:16:50] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#112: [Omni-Evo] Player literal{Benjiuj} joined - GiveAFAliens is enabled, player has been given the Recal.GiveAFAliens tag
+[23:16:50] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#121: [Omni-Evo] Player literal{Benjiuj} joined - RandomizeBugRecal is disabled, player has been given the Recal.DisableRandomizeBugRecal tag
+[23:23:04] [ERROR] ! addonpack_reds_things:kubejs_scripts/alienspawn_command.js#29: Error in 'ServerEvents.tick': Cannot convert NaN to java.lang.Integer
+[23:23:04] [ERROR] ! …rhino.EvaluatorException: Cannot convert NaN to java.lang.Integer (addonpack_reds_things:kubejs_scripts/alienspawn_command.js#29)
+[23:23:04] [ERROR] !   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
+[23:23:04] [ERROR] !   at …rhino.Context.reportRuntimeError(Context.java:133)
+[23:23:04] [ERROR] !   at …rhino.Context.reportRuntimeError(Context.java:173)
+[23:23:04] [ERROR] !   at …rhino.Context.reportRuntimeError2(Context.java:150)
+[23:23:04] [ERROR] !   at …rhino.NativeJavaObject.reportConversionError(NativeJavaObject.java:562)
+[23:23:04] [ERROR] !   at …rhino.NativeJavaObject.reportConversionError(NativeJavaObject.java:556)
+[23:23:04] [ERROR] !   at …rhino.NativeJavaObject.toInteger(NativeJavaObject.java:539)
+[23:23:04] [ERROR] !   at …rhino.NativeJavaObject.coerceToNumber(NativeJavaObject.java:463)
+[23:23:04] [ERROR] !   at …rhino.NativeJavaObject.coerceTypeImpl(NativeJavaObject.java:310)
+[23:23:04] [ERROR] !   at …rhino.Context.jsToJava(Context.java:237)
+[23:23:04] [ERROR] !   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:430)
+[23:23:04] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[23:23:04] [ERROR] !   at script.findSpawnLocation(addonpack_reds_things:kubejs_scripts/alienspawn_command.js:29)
+[23:23:04] [ERROR] !   at script(addonpack_reds_things:kubejs_scripts/alienspawn_command.js:54)
+[23:23:04] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[23:23:04] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[23:23:04] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
+[23:23:04] [ERROR] !   at …rhino.Context.doTopCall(Context.java:1374)
+[23:23:04] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[23:23:04] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
+[23:23:04] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[23:23:04] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
+[23:23:04] [ERROR] !   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[23:23:04] [ERROR] !   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[23:23:04] [ERROR] !   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy92.onEvent(Unknown Source)
+[23:23:04] [ERROR] !   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[23:23:04] [ERROR] !   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[23:23:04] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:272)
+[23:23:04] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[23:23:04] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:189)
+[23:23:04] [ERROR] !   at net.minecraft.server.MinecraftServer.handler$bbp000$kjs$postTickServer(MinecraftServer.java:7438)
+[23:23:04] [ERROR] !   at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:836)
+[23:23:04] [ERROR] !   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+[23:23:04] [ERROR] !   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[23:23:04] [ERROR] !   at java.lang.Thread.run(Thread.java:840)
+[23:26:24] [ERROR] ! addonpack_reds_things:kubejs_scripts/alienspawn_command.js#29: Error in 'ServerEvents.tick': Cannot convert NaN to java.lang.Integer
+[23:26:24] [ERROR] ! …rhino.EvaluatorException: Cannot convert NaN to java.lang.Integer (addonpack_reds_things:kubejs_scripts/alienspawn_command.js#29)
+[23:26:24] [ERROR] !   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
+[23:26:24] [ERROR] !   at …rhino.Context.reportRuntimeError(Context.java:133)
+[23:26:24] [ERROR] !   at …rhino.Context.reportRuntimeError(Context.java:173)
+[23:26:24] [ERROR] !   at …rhino.Context.reportRuntimeError2(Context.java:150)
+[23:26:24] [ERROR] !   at …rhino.NativeJavaObject.reportConversionError(NativeJavaObject.java:562)
+[23:26:24] [ERROR] !   at …rhino.NativeJavaObject.reportConversionError(NativeJavaObject.java:556)
+[23:26:24] [ERROR] !   at …rhino.NativeJavaObject.toInteger(NativeJavaObject.java:539)
+[23:26:24] [ERROR] !   at …rhino.NativeJavaObject.coerceToNumber(NativeJavaObject.java:463)
+[23:26:24] [ERROR] !   at …rhino.NativeJavaObject.coerceTypeImpl(NativeJavaObject.java:310)
+[23:26:24] [ERROR] !   at …rhino.Context.jsToJava(Context.java:237)
+[23:26:24] [ERROR] !   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:430)
+[23:26:24] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[23:26:24] [ERROR] !   at script.findSpawnLocation(addonpack_reds_things:kubejs_scripts/alienspawn_command.js:29)
+[23:26:24] [ERROR] !   at script(addonpack_reds_things:kubejs_scripts/alienspawn_command.js:54)
+[23:26:24] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[23:26:24] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[23:26:24] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
+[23:26:24] [ERROR] !   at …rhino.Context.doTopCall(Context.java:1374)
+[23:26:24] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[23:26:24] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
+[23:26:24] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[23:26:24] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
+[23:26:24] [ERROR] !   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[23:26:24] [ERROR] !   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[23:26:24] [ERROR] !   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy92.onEvent(Unknown Source)
+[23:26:24] [ERROR] !   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[23:26:24] [ERROR] !   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[23:26:24] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:272)
+[23:26:24] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[23:26:24] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:189)
+[23:26:24] [ERROR] !   at net.minecraft.server.MinecraftServer.handler$bbp000$kjs$postTickServer(MinecraftServer.java:7438)
+[23:26:24] [ERROR] !   at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:836)
+[23:26:24] [ERROR] !   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+[23:26:24] [ERROR] !   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[23:26:24] [ERROR] !   at java.lang.Thread.run(Thread.java:840)
